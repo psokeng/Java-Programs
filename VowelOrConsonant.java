@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Sokeng Paul (AG)
  */
-public class Chapter4_13 {
+public class VowelOrConsonant {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter a letter:");
